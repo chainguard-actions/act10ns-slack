@@ -1,0 +1,11 @@
+{
+  "owner": "act10ns",
+  "repo": "slack",
+  "version": "v2.2.0",
+  "commit_sha": "d96404edccc6d6467fc7f8134a420c851b1e9054",
+  "url": "https://github.com/act10ns/slack",
+  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
+  "test_agent_version": "2",
+  "harden_agent_version": "2"
+}
