@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v2.2.0 | [`v2.2.0`](https://github.com/chainguard-actions/act10ns-slack/tree/v2.2.0) | [`d96404e`](https://github.com/act10ns/slack/commit/d96404edccc6d6467fc7f8134a420c851b1e9054) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v2.2.0 | [`v2.2.0`](https://github.com/chainguard-actions/act10ns-slack/tree/v2.2.0) | [`d96404e`](https://github.com/act10ns/slack/commit/d96404edccc6d6467fc7f8134a420c851b1e9054) | [`HARDENING.md`](https://github.com/chainguard-actions/act10ns-slack/blob/v2.2.0/HARDENING.md) |
 
 ## Privacy
 
